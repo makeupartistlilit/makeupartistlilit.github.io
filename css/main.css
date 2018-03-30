@@ -101,6 +101,7 @@ hr {
 }
 
 #headerwrap h1 {
+    width: 100%;
     margin-top: 150px;
     color: palevioletred;
     font-size: 32px;
@@ -110,6 +111,7 @@ hr {
 }
 #headerwrap h3 {
     color: black;
+    width: 100%;
     font-size: 26px;
     font-weight: 300px;
     letter-spacing: 3px;
